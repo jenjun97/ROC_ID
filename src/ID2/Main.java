@@ -95,7 +95,6 @@ public class Main extends javax.swing.JFrame {
     private void jTextField1KeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTextField1KeyReleased
         if (jTextField1.getText().length() >= 10) {
             String str = jTextField1.getText();
-//            jLabel1.setText(str);
             check.setMessage(str);
             jTextField1.setText("");
         }
