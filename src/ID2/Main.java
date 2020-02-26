@@ -15,7 +15,7 @@ public class Main extends javax.swing.JFrame {
      * Creates new form Main
      */
     check check;
-    
+
     public Main() {
         check = new check(jLabel1);
         initComponents();
