@@ -13,5 +13,6 @@ public class check {
     public void getInput(String str) {
         jLabel1.setText(str);
     }
+    
 
 }
